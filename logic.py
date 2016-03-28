@@ -35,6 +35,7 @@ def ageRetire(y)
 
 def ageYoung(y)
     is y smaller than 26?
+    y<26
     is so return true, otherwise return false
 
 def ageKid(y)

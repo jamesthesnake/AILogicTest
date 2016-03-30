@@ -8,6 +8,7 @@ class LogicalSegment(object):
         self.right = right
 
 def create_laws()
+    #makes the statments to be logically constructed
     rules.append(LogicalSegment("person(Frank)",NULL)
     rules.append(LogicalSegment("person(John)",NULL)
     rules.append(LogicalSegment("person(Cindy)",NULL)

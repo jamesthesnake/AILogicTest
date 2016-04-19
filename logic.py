@@ -13,6 +13,7 @@ def create_laws()
     rules.append(LogicalSegment("person(John)",NULL)
     rules.append(LogicalSegment("person(Cindy)",NULL)
     rules.append(LogicalSegment("person(Julie)",NULL)
+    // following rules
     rules.append(LogicalSegment("playsGuitar(John)",NULL)
     rules.append(LogicalSegment("playsGuitar(Julie)",NULL)
     rules.append(LogicalSegment("playsGuitar(Frank)",NULL)
